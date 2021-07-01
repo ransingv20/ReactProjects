@@ -1,0 +1,86 @@
+form legend {
+    font-size: inherit;
+    line-height: 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #555;
+    
+}
+
+fieldset
+{
+    width:500px
+}
+
+form input
+{
+    width:800px;
+}
+.center
+{
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%,-50%);
+}
+
+.title{
+    height: 70px;
+    background: #16a085;
+   
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .loginButton, .registerButton 
+  {
+    background: #16a085;
+    color: white;
+    height: 40px;
+    font-weight: 600;
+  }
+  .start
+  {
+    background: rgb(32, 32, 192);
+    color: white;
+    height: 40px;
+    font-weight: 600;
+    position:absolute;
+    margin-top: 10px;
+    margin-left:100px
+  }
+ 
+
+  .homeBg{
+    height: 900px;
+    width: 900px;
+    margin-top: 8%;
+    margin-left: 200px;
+    
+  }
+
+  .btn:hover
+  {
+    color: white;
+
+  }
+  button a{
+    color: white;
+    text-decoration: none;
+  }
+
+  FloatingLabel 
+  {
+    outline: none;
+  }
+
+  /* #root
+  {
+    background-image: url("./bg-taskHome.png");
+  } */
+
+
+  
