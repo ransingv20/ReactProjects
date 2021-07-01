@@ -155,8 +155,8 @@ export default function Dashboard(props) {
              <td>{currElement.taskName}</td>
              <td>{currElement.taskDesc}</td>
              <td>
-               <Button>Update</Button>
-               <Button>Delete</Button>
+               {/* <Button>Update</Button>
+               <Button>Delete</Button> */}
              </td>
              </tr>
              
